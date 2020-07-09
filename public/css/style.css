@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(190, 57, 57) !important; 
+    color: white;
+}
+
+.title {
+    color: rgb(179, 40, 40);
+    font-size: 3em;
+}
+
+h4 {
+    margin: 10px 0;
+}
+
+a {
+    margin-left: 10px;
+    color: salmon;
+}
+
+a:hover {
+    color:orange;
+}
+
+.pokemon-title {
+    align-items: center;
+    color: white;
+    margin: 30px;
+
+}
+
+nav {
+    background-color: white;
+    margin: 10px 60px;
+    border-radius: 15px;
+}
+
+.pokemon {
+    background-color: brown;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.pokemon-details {
+    background-color: brown;
+    color: white;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.type {
+    margin: 5px;
+    border-radius: 5px;
+    height: 80px;;
+}
+
+.type-button {
+    color:white
+}
+.type-short {
+    padding:5px;
+    border-radius: 5px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
